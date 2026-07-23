@@ -5,16 +5,19 @@ Data Scientist | Economist | Machine Learning | Business Analytics
 </h3>
 
 <p align="center">
-I'm passionate about transforming data into actionable insights through machine learning, predictive analytics, and data-driven decision making.
-Currently pursuing a <b>M.Sc. in Data Science, Big Data & Business Analytics</b> at Complutense University of Madrid after completing a <b>B.Sc. in Economics & Business Economics</b> at Maastricht University.
-</p>
+
+I have an interdisciplinary background that combines **Economics and Data Science**, allowing me to approach problems from both a business and a technical perspective.
+
+I enjoy transforming complex datasets into actionable insights by combining statistical analysis, machine learning, and data visualization to support data-driven decision making.
+
+Currently, I am pursuing a **Master's in Data Science, Big Data & Business Analytics** after completing a **Bachelor's in Economics & Business Economics**, where I developed a strong foundation in quantitative analysis, econometrics, and economic modeling.
 
 ---
 
 ## About Me
 
-- 🎓 Master's in **Data Science, Big Data & Business Analytics** 
-- 🎓 Bachelor's in **Economics & Business Economics**
+- 🎓 Master's in **Data Science, Big Data & Business Analytics** at Complutense University of Madrid, Spain 🇪🇸
+- 🎓 Bachelor's in **Economics & Business Economics** at Maastricht University, The Netherlands 🇳🇱
 - 🌱 Interested in **Machine Learning, NLP, Predictive Analytics, Economics, Macroeconomics, Statistics, and Sustainability**
 - 📊 Enjoy building end-to-end data science projects, from data preprocessing to model deployment
 - 🌍 Languages: Spanish | English | Catalan 
