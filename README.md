@@ -6,11 +6,9 @@ Data Scientist | Economist | Machine Learning | Business Analytics
 
 <p align="center">
 
-I have an interdisciplinary background that combines **Economics and Data Science**, allowing me to approach problems from both a business and a technical perspective.
+I have an interdisciplinary background that combines **Economics and Data Science**, allowing me to approach problems from both a business and a technical perspective. Currently, I am pursuing a **Master's in Data Science, Big Data & Business Analytics** after completing a **Bachelor's in Economics & Business Economics**, where I developed a strong foundation in quantitative analysis, econometrics, and economic modeling.
 
 I enjoy transforming complex datasets into actionable insights by combining statistical analysis, machine learning, and data visualization to support data-driven decision making.
-
-Currently, I am pursuing a **Master's in Data Science, Big Data & Business Analytics** after completing a **Bachelor's in Economics & Business Economics**, where I developed a strong foundation in quantitative analysis, econometrics, and economic modeling.
 
 ---
 
