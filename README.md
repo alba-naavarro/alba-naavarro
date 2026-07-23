@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Alba 👋</h1>
 
 <h3 align="center">
-Data Scientist | Machine Learning | Business Analytics | Sustainability
+Data Scientist | Economist | Machine Learning | Business Analytics
 </h3>
 
 <p align="center">
@@ -15,9 +15,9 @@ Currently pursuing a <b>M.Sc. in Data Science, Big Data & Business Analytics</b>
 
 - 🎓 Master's in **Data Science, Big Data & Business Analytics**
 - 🎓 Bachelor's in **Economics & Business Economics**
-- 🌱 Interested in **Machine Learning, NLP, Predictive Analytics, Sustainability and Energy Analytics**
+- 🌱 Interested in **Machine Learning, NLP, Predictive Analytics, Economics, Macroeconomics, Statistics, and Sustainability**
 - 📊 Enjoy building end-to-end data science projects, from data preprocessing to model deployment
-- 🌍 Languages: Spanish 🇪🇸 | English 🇬🇧 | Catalan 🇪🇸
+- 🌍 Languages: Spanish | English | Catalan 
 
 ---
 
@@ -51,55 +51,11 @@ Currently pursuing a <b>M.Sc. in Data Science, Big Data & Business Analytics</b>
 
 ---
 
-## 📂 Featured Projects
-
-🔹 **Natural Language Processing with BERT**
-
-Fine-tuning transformer models for Spanish text classification.
-
----
-
-🔹 **Applied Data Mining**
-
-Regression, classification, feature selection, clustering and time series forecasting across multiple real-world datasets.
-
----
-
-🔹 **Big Data Analytics with Apache Spark**
-
-Large-scale data processing, distributed computing and geospatial analysis using PySpark.
-
----
-
-🔹 **Pump It Up: Data Mining the Water Table**
-
-Machine Learning models for predicting water pump functionality using structured data.
-
----
-
-🔹 **Python Data Generation & Exploratory Analysis**
-
-Synthetic data generation, preprocessing and visualization using Pandas and Matplotlib.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alba-naavarro&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alba-naavarro&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alba-navarro-fernández)
 
-📧 YOUR_EMAIL
+📧 albanf02@gmail.com
 
 ---
 
