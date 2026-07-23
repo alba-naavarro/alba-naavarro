@@ -49,13 +49,6 @@ Currently pursuing a <b>M.Sc. in Data Science, Big Data & Business Analytics</b>
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alba-navarro-fernández)
-
-📧 albanf02@gmail.com
 
 ---
 
