@@ -11,9 +11,9 @@ Currently pursuing a <b>M.Sc. in Data Science, Big Data & Business Analytics</b>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Master's in **Data Science, Big Data & Business Analytics**
+- 🎓 Master's in **Data Science, Big Data & Business Analytics** 
 - 🎓 Bachelor's in **Economics & Business Economics**
 - 🌱 Interested in **Machine Learning, NLP, Predictive Analytics, Economics, Macroeconomics, Statistics, and Sustainability**
 - 📊 Enjoy building end-to-end data science projects, from data preprocessing to model deployment
